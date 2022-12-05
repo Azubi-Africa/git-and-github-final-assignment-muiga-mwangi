@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 | California-Housing-Price-ML-Model           |  Training a Machine Learning model on the California Housing Price dataset             | https://github.com/muiga-mwangi/California-Housing-Price-ML-Model       |
+| 1 | California-Housing-Price-ML-Model           |  Training a Machine Learning model on the California Housing Price dataset            | https://github.com/muiga-mwangi/California-Housing-Price-ML-Model       |
 | 2 |  Shifting-Images-Mnist-Dataset             |  A python project to shift images in various dimensions and directions in the Mnist Dataset             | https://github.com/muiga-mwangi/Shifting-Images-Mnist-Dataset       |
 | 3 |  Convenience-Store-Python             |  A python program showing list methods with the example of a convenience store             | https://github.com/muiga-mwangi/Convenience-Store-Python       |
 
